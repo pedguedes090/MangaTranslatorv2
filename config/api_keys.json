@@ -1,0 +1,16 @@
+{
+  "gemini_keys": [
+    {
+      "key": "",
+      "name": "Account 1",
+      "active": true,
+      "daily_limit": 1000,
+      "usage_count": 10,
+      "last_reset": "2025-08-26"
+    }
+  ],
+  "google_translate_keys": [],
+  "rotation_strategy": "round_robin",
+  "fallback_to_free": true,
+  "auto_reset_usage": true
+}
